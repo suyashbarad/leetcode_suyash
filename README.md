@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
