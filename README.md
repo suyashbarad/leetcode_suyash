@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
+| [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
