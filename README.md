@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
