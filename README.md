@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/suyashbarad/leetcode_suyash/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suyashbarad/leetcode_suyash/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suyashbarad/leetcode_suyash/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suyashbarad/leetcode_suyash/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/suyashbarad/leetcode_suyash/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
