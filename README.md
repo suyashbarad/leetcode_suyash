@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suyashbarad/leetcode_suyash/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suyashbarad/leetcode_suyash/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suyashbarad/leetcode_suyash/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/suyashbarad/leetcode_suyash/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/suyashbarad/leetcode_suyash/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suyashbarad/leetcode_suyash/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suyashbarad/leetcode_suyash/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/suyashbarad/leetcode_suyash/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suyashbarad/leetcode_suyash/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suyashbarad/leetcode_suyash/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/suyashbarad/leetcode_suyash/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/suyashbarad/leetcode_suyash/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
@@ -87,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
