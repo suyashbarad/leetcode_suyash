@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/suyashbarad/leetcode_suyash/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/suyashbarad/leetcode_suyash/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashbarad/leetcode_suyash/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/suyashbarad/leetcode_suyash/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
