@@ -124,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suyashbarad/leetcode_suyash/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
