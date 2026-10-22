@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suyashbarad/leetcode_suyash/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suyashbarad/leetcode_suyash/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/suyashbarad/leetcode_suyash/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/suyashbarad/leetcode_suyash/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -133,8 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/suyashbarad/leetcode_suyash/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/suyashbarad/leetcode_suyash/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suyashbarad/leetcode_suyash/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
