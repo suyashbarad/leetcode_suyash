@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suyashbarad/leetcode_suyash/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/suyashbarad/leetcode_suyash/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2409-count-days-spent-together](https://github.com/suyashbarad/leetcode_suyash/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suyashbarad/leetcode_suyash/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
