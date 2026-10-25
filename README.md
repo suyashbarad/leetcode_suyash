@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashbarad/leetcode_suyash/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suyashbarad/leetcode_suyash/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/suyashbarad/leetcode_suyash/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suyashbarad/leetcode_suyash/tree/master/0217-contains-duplicate) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/suyashbarad/leetcode_suyash/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suyashbarad/leetcode_suyash/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/suyashbarad/leetcode_suyash/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0509-fibonacci-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suyashbarad/leetcode_suyash/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
