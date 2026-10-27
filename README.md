@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/suyashbarad/leetcode_suyash/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suyashbarad/leetcode_suyash/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suyashbarad/leetcode_suyash/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/suyashbarad/leetcode_suyash/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suyashbarad/leetcode_suyash/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suyashbarad/leetcode_suyash/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -164,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/suyashbarad/leetcode_suyash/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suyashbarad/leetcode_suyash/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
