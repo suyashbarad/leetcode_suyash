@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suyashbarad/leetcode_suyash/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/suyashbarad/leetcode_suyash/tree/master/0704-binary-search) |
+| [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -168,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suyashbarad/leetcode_suyash/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suyashbarad/leetcode_suyash/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
