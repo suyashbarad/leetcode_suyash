@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suyashbarad/leetcode_suyash/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suyashbarad/leetcode_suyash/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/suyashbarad/leetcode_suyash/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suyashbarad/leetcode_suyash/tree/master/0232-implement-queue-using-stacks) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suyashbarad/leetcode_suyash/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suyashbarad/leetcode_suyash/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suyashbarad/leetcode_suyash/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0104-maximum-depth-of-binary-tree) |
