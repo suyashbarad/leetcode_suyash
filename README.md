@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/suyashbarad/leetcode_suyash/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suyashbarad/leetcode_suyash/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/suyashbarad/leetcode_suyash/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/suyashbarad/leetcode_suyash/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
