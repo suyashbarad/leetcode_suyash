@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/suyashbarad/leetcode_suyash/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suyashbarad/leetcode_suyash/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashbarad/leetcode_suyash/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suyashbarad/leetcode_suyash/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/suyashbarad/leetcode_suyash/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suyashbarad/leetcode_suyash/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0700-search-in-a-binary-search-tree) |
@@ -217,11 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suyashbarad/leetcode_suyash/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suyashbarad/leetcode_suyash/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
