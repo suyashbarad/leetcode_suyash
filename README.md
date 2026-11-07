@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/suyashbarad/leetcode_suyash/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/suyashbarad/leetcode_suyash/tree/master/1046-last-stone-weight) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/suyashbarad/leetcode_suyash/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/suyashbarad/leetcode_suyash/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
