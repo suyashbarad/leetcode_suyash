@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suyashbarad/leetcode_suyash/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/suyashbarad/leetcode_suyash/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/suyashbarad/leetcode_suyash/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suyashbarad/leetcode_suyash/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suyashbarad/leetcode_suyash/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/suyashbarad/leetcode_suyash/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/suyashbarad/leetcode_suyash/tree/master/0205-isomorphic-strings) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suyashbarad/leetcode_suyash/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
