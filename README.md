@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/suyashbarad/leetcode_suyash/tree/master/1046-last-stone-weight) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/suyashbarad/leetcode_suyash/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suyashbarad/leetcode_suyash/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/suyashbarad/leetcode_suyash/tree/master/0560-subarray-sum-equals-k) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suyashbarad/leetcode_suyash/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/suyashbarad/leetcode_suyash/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/suyashbarad/leetcode_suyash/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/suyashbarad/leetcode_suyash/tree/master/1046-last-stone-weight) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quickselect
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suyashbarad/leetcode_suyash/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suyashbarad/leetcode_suyash/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0509-fibonacci-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/suyashbarad/leetcode_suyash/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/suyashbarad/leetcode_suyash/tree/master/0643-maximum-average-subarray-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
