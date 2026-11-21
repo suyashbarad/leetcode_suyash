@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suyashbarad/leetcode_suyash/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/suyashbarad/leetcode_suyash/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/suyashbarad/leetcode_suyash/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/suyashbarad/leetcode_suyash/tree/master/0560-subarray-sum-equals-k) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/suyashbarad/leetcode_suyash/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/suyashbarad/leetcode_suyash/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/suyashbarad/leetcode_suyash/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2409-count-days-spent-together](https://github.com/suyashbarad/leetcode_suyash/tree/master/2409-count-days-spent-together) |
 ## Binary Search
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suyashbarad/leetcode_suyash/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/suyashbarad/leetcode_suyash/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/suyashbarad/leetcode_suyash/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/suyashbarad/leetcode_suyash/tree/master/0643-maximum-average-subarray-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
