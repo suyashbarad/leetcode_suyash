@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suyashbarad/leetcode_suyash/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashbarad/leetcode_suyash/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/suyashbarad/leetcode_suyash/tree/master/1108-defanging-an-ip-address) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/suyashbarad/leetcode_suyash/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/suyashbarad/leetcode_suyash/tree/master/2409-count-days-spent-together) |
 ## Binary Search
