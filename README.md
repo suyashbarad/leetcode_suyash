@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashbarad/leetcode_suyash/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/suyashbarad/leetcode_suyash/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/suyashbarad/leetcode_suyash/tree/master/0771-jewels-and-stones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/suyashbarad/leetcode_suyash/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/suyashbarad/leetcode_suyash/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/suyashbarad/leetcode_suyash/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suyashbarad/leetcode_suyash/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/suyashbarad/leetcode_suyash/tree/master/1108-defanging-an-ip-address) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/suyashbarad/leetcode_suyash/tree/master/2124-check-if-all-as-appears-before-all-bs) |
