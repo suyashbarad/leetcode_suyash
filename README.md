@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/suyashbarad/leetcode_suyash/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/suyashbarad/leetcode_suyash/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suyashbarad/leetcode_suyash/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/suyashbarad/leetcode_suyash/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/1480-running-sum-of-1d-array) |
 ## String Matching
 |  |
 | ------- |
