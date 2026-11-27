@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/suyashbarad/leetcode_suyash/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/suyashbarad/leetcode_suyash/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/suyashbarad/leetcode_suyash/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suyashbarad/leetcode_suyash/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suyashbarad/leetcode_suyash/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/suyashbarad/leetcode_suyash/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/suyashbarad/leetcode_suyash/tree/master/0733-flood-fill) |
+| [1672-richest-customer-wealth](https://github.com/suyashbarad/leetcode_suyash/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
 | ------- |
